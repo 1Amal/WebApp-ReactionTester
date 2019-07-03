@@ -1,3 +1,4 @@
-# ReactionTester
+# Reaction Tester
 
-http://www.agilesoft.com.au/Projects/webapps/reactiontester/reactiontester.html
+Small game I created to test your reaction time
+http://www.1amal.com/reactiontester/
